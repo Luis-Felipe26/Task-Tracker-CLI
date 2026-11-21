@@ -1,0 +1,14 @@
+# Task data
+tasks.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor settings
+.vscode/
+.idea/
